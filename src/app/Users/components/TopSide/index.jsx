@@ -41,8 +41,8 @@ const TopSide = (props) => {
             id=""
           >
             <option value="all">All</option>
-            <option value="asc">Ascending</option>
-            <option value="desc">Descending</option>
+            <option value="asc">asc</option>
+            <option value="desc">desc</option>
           </select>
         </div>
 
